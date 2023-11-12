@@ -17,6 +17,7 @@ Credit Card Payment Detection project aims to predict wether the customer will p
 - `CC_Payment_Detection_Inference.ipynb` : Jupyter Notebook containing the code for model inference testing.
 - `credit_card_data.csv` : CSV file containing the data of Credit Card Payment History.
 - `deployment/` : Folder containing the code for model deployment.
+- `images/` : Folder containing images result.
 
 ## Algorithm Used
 - Logistic Regression
