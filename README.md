@@ -24,7 +24,7 @@ Credit Card Payment Detection project aims to predict wether the customer will p
 - Support Vector Machines Classifier
 
 ## Result
-![Model Result](./images/01_knn_result.png)
+![Model Result](./images/01_knn_result.png)  
 Above are the result of KNN algorithm after parameter tuning and threshold change.
 - To analyze this model, we use `precision` metrics because we want to maximize the model to correctly predict positive and minimalize false positive.
 
