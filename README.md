@@ -25,8 +25,8 @@ Credit Card Payment Detection project aims to predict wether the customer will p
 
 ## Result
 ![Model Result](./images/01_knn_result.png)  
-Above are the result of KNN algorithm after parameter tuning and threshold change.
-- To analyze this model, we use `precision` metrics because we want to maximize the model to correctly predict positive and minimalize false positive.
+Above are the result of KNN algorithm after parameter tuning and threshold change.  
+To analyze this model, we use `precision` metrics because we want to maximize the model to correctly predict positive and minimalize false positive.
 
 ## Conclusion
 Credit Card Payment Detection project was able to successfully classify the customer payment status for the next month with `77% Precision Score` using `KNN` algorithm. These can be used by credit card issuer to help them to evaluate their customer and decide whether the customer is eligible for additional facilities.
