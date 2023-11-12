@@ -1,4 +1,4 @@
-# Credit-Card-Payment-Detection
+# Credit Card Payment Detection
 This repository contains an supervised machine learning to predict whether the customer will pay their credit card bills or not for the next month. The project is designed to help the credit card issuer to decide whether the customer is eligible for additional facilities.
 
 ## Project Overview
